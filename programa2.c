@@ -1,5 +1,5 @@
 /********************************************************************************
- * Project:     PIC I/O Control – Multiple Pin States
+ * Project:     PIC I/O Control â€“ Multiple Pin States
  * File:        main.c
  * Description: Upon microcontroller startup, pins RB2, RB6, and RA1 are 
  *              configured as outputs. RB6 and RA1 are set to a logic high level, 
@@ -9,7 +9,7 @@
  * Clock:       4 MHz (XT Crystal)
  * Compiler:    MPLAB XC8
  * 
- * Author:      Daniel Beltrán
+ * Author:      Daniel BeltrÃ¡n
  * Date:        2025-10-14
  ********************************************************************************/
 
