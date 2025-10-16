@@ -1,5 +1,5 @@
 /********************************************************************************
- * Project:     PIC I/O Control – Port B Output Pattern
+ * Project:     PIC I/O Control â€“ Port B Output Pattern
  * File:        main.c
  * Description: Upon microcontroller startup, PORTB is configured as output and 
  *              the binary pattern 0b01100101 is continuously sent to the port. 
@@ -12,7 +12,7 @@
  * Clock:           4 MHz (XT Crystal)
  * Compiler:        MPLAB XC8
  * 
- * Author:          Daniel Beltrán
+ * Author:          Daniel BeltrÃ¡n
  * Date:            2025-10-14
  ********************************************************************************/
 
