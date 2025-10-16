@@ -1,5 +1,5 @@
 /********************************************************************************
- * Project:     PIC I/O Control – Push Button with Pull-up
+ * Project:     PIC I/O Control â€“ Push Button with Pull-up
  * File:        main.c
  * Description: A push button with a pull-up resistor is connected to RB0. 
  *              When the button is pressed (logic low), the LED connected to RB2 
@@ -10,7 +10,7 @@
  * Clock:           4 MHz (XT Crystal)
  * Compiler:        MPLAB XC8
  * 
- * Author:          Daniel Beltrán
+ * Author:          Daniel BeltrÃ¡n
  * Date:            2025-10-14
  ********************************************************************************/
 
