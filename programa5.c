@@ -1,5 +1,5 @@
 /********************************************************************************
- * Project:     PIC I/O Control – Dual Push Button and LED Logic
+ * Project:     PIC I/O Control â€“ Dual Push Button and LED Logic
  * File:        main.c
  * Description: Two push buttons with pull-up resistors are connected to RB1 and 
  *              RA2. When RB1 is pressed (active low), the LED on RA0 turns ON. 
@@ -12,7 +12,7 @@
  * Clock:           4 MHz (XT Crystal)
  * Compiler:        MPLAB XC8
  * 
- * Author:          Daniel Beltrán
+ * Author:          Daniel BeltrÃ¡n
  * Date:            2025-10-14
  ********************************************************************************/
 
